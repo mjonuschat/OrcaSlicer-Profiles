@@ -52,10 +52,10 @@
         "30"
     ],
     "fan_max_speed": [
-        "65"
+        "50"
     ],
     "fan_min_speed": [
-        "65"
+        "50"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -67,7 +67,7 @@
         "4"
     ],
     "filament_cost": [
-        "22"
+        "31"
     ],
     "filament_density": [
         "1.03"
@@ -82,7 +82,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.924"
+        "0.918"
     ],
     "filament_is_support": [
         "0"
@@ -145,10 +145,10 @@
         "nil"
     ],
     "filament_settings_id": [
-        "ASA - Polymaker"
+        "ABS - Fusion"
     ],
     "filament_shrink": [
-        "100%"
+        "99.38%"
     ],
     "filament_soluble": [
         "0"
@@ -160,7 +160,7 @@
         "0"
     ],
     "filament_type": [
-        "ASA"
+        "ABS"
     ],
     "filament_unload_time": [
         "0"
@@ -191,33 +191,33 @@
         "1"
     ],
     "hot_plate_temp": [
-        "105"
+        "110"
     ],
     "hot_plate_temp_initial_layer": [
-        "105"
+        "110"
     ],
     "inherits": "My Generic ABS",
-    "name": "ASA - Polymaker",
+    "name": "ABS - Fusion",
     "nozzle_temperature": [
-        "260"
+        "285"
     ],
     "nozzle_temperature_initial_layer": [
-        "260"
+        "285"
     ],
     "nozzle_temperature_range_high": [
-        "270"
+        "290"
     ],
     "nozzle_temperature_range_low": [
         "240"
     ],
     "overhang_fan_speed": [
-        "100"
+        "80"
     ],
     "overhang_fan_threshold": [
         "25%"
     ],
     "pressure_advance": [
-        "0.026"
+        "0.039"
     ],
     "reduce_fan_stop_start_freq": [
         "1"

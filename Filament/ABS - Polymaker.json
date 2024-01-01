@@ -52,10 +52,10 @@
         "30"
     ],
     "fan_max_speed": [
-        "65"
+        "50"
     ],
     "fan_min_speed": [
-        "65"
+        "50"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -145,7 +145,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "ASA - Polymaker"
+        "ABS - Polymaker"
     ],
     "filament_shrink": [
         "100%"
@@ -160,7 +160,7 @@
         "0"
     ],
     "filament_type": [
-        "ASA"
+        "ABS"
     ],
     "filament_unload_time": [
         "0"
@@ -197,12 +197,12 @@
         "105"
     ],
     "inherits": "My Generic ABS",
-    "name": "ASA - Polymaker",
+    "name": "ABS - Polymaker",
     "nozzle_temperature": [
-        "260"
+        "250"
     ],
     "nozzle_temperature_initial_layer": [
-        "260"
+        "250"
     ],
     "nozzle_temperature_range_high": [
         "270"
@@ -211,13 +211,13 @@
         "240"
     ],
     "overhang_fan_speed": [
-        "100"
+        "80"
     ],
     "overhang_fan_threshold": [
         "25%"
     ],
     "pressure_advance": [
-        "0.026"
+        "0.039"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
