@@ -1,23 +1,35 @@
-# OrcaSlicer-Profiles
+# OrcaSlicer Profiles
 
-## Printers
+Filament and Process settings for use in OrcaSlicer 2.0 or newer.
 
-- Voron V2.4r2 350mm
+## Usage
 
-## Filaments
+Please import the filament and process settings based on the kind of printer that you defined/selected in the OrcaSlicer configuration wizard.
 
-- Polymaker ASA
-- KVP ABS
+For "Generic Klipper Printers" select the files in the [Klipper](./Klipper/) folder. If you picked a "Voron" printer use the files from the [Voron](./Voron/) folder.
 
-## Print Settings
+## What's included
 
-- Voron - PIF
+### Process Settings
+
+- PIF
   Settings based on Ellis SuperSlicer Profile
-- Voron - PIF (Fast)
+- PIF (Fast)
   Higher speeds compared to the base profile
-- Voron - PIF (Fast + SCV)
-  Adjustments for square corner velocity by feature
-- Voron - PIF (Fast + SCV + Percentage)
-  Use nozzle diameter based extrusion width (experimental, requires OrcaSlicer 1.6.4 or newer)
 - Annex
   Recommended Annex Engineering print settings
+
+### Filaments
+
+Various filament settings for the following materials and brands.
+
+#### ABS
+
+- Fusion
+- Inland
+- KVP
+- Polymaker
+
+#### ASA
+
+- Polymaker

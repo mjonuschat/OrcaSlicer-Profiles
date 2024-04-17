@@ -1,0 +1,49 @@
+{
+    "chamber_temperature": [
+        "40"
+    ],
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_cost": [
+        "35"
+    ],
+    "filament_density": [
+        "1.03"
+    ],
+    "filament_flow_ratio": [
+        "0.924"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "ABS - KVP"
+    ],
+    "filament_vendor": [
+        "KVP"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "115"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "115"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS - KVP",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "version": "2.0.2.0"
+}

@@ -1,0 +1,52 @@
+{
+    "chamber_temperature": [
+        "40"
+    ],
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_cost": [
+        "31"
+    ],
+    "filament_density": [
+        "1.03"
+    ],
+    "filament_flow_ratio": [
+        "0.918"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "ABS - Fusion"
+    ],
+    "filament_vendor": [
+        "Fusion"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS - Fusion",
+    "nozzle_temperature": [
+        "285"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "285"
+    ],
+    "nozzle_temperature_range_high": [
+        "290"
+    ],
+    "version": "2.0.2.0"
+}
